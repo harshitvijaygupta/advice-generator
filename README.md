@@ -6,7 +6,7 @@
 
 ## Techs used to design :
 - HTML, CSS, JavaScript and Advice API(Open Source).
-- <a href="https://api.adviceslip.com/advice">API Link</a>
+- <a href="https://api.adviceslip.com/">API Link</a>
 - <a href="https://harshitvijaygupta.github.io/advice-generator/">Live App</a>
 
 ## Like & Follow :
